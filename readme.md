@@ -36,5 +36,3 @@
  ## Licença 📄
 
  Este projeto está sob a licença [MIT License](https://opensource.org/licenses/MIT).
-
- 2
